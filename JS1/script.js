@@ -101,3 +101,14 @@ if (num > 100) {
 if (num == 100) {
     console.log("Число равно 100")
 } */
+
+/*const name = prompt("Введите имя")
+const age = prompt("Введите возраст")
+
+if ( age > 18) 
+{
+    console.log("Hello", name)
+}
+if ( age < 18) {
+    console.log( " Hi ", name)
+} */
